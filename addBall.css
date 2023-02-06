@@ -1,0 +1,23 @@
+
+#btn{
+    text-align: center;
+    margin-left:50%;
+    margin-top:10%;
+    margin-bottom:5%;
+}
+#box{
+    width:100%;
+    height:200px;
+    background-color: antiquewhite;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    position: relative;
+}
+.ball{
+    height:50px;
+    width:50px;
+    border-radius:50px;
+    position: relative;
+
+}
